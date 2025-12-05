@@ -1,0 +1,7 @@
+{
+  "name": "Estuarine Explorer",
+  "description": "An interactive educational platform to explore global estuarine systems, featuring detailed ecological data, quizzes, and multimedia content.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
